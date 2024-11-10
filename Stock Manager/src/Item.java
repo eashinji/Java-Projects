@@ -1,4 +1,10 @@
 import java.text.DecimalFormat;
+//---------------------------------------------------------------------
+/*
+* @author Eashinji
+* @version 2024-07-08
+*/
+//---------------------------------------------------------------------
 
 public class Item {
     private String name;
