@@ -1,4 +1,10 @@
 import java.util.Scanner;
+//---------------------------------------------------------------------
+/*
+* @author Eashinji
+* @version 2024-07-08
+*/
+//---------------------------------------------------------------------
 
 public class InventoryTest {
     public static void main(String[] args) {
