@@ -2,6 +2,12 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+//---------------------------------------------------------------------
+/*
+* @author Eashinji
+* @version 2024-07-08
+*/
+//---------------------------------------------------------------------
 public class Inventory {
     private List<Item> items;
     private static final String FILE_NAME = "inventory.txt"; // File to store inventory data
