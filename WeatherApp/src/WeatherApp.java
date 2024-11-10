@@ -19,7 +19,7 @@ import java.time.format.DateTimeFormatter;
 public class WeatherApp {
 
     // Replace with your actual OpenWeatherMap API key
-    private static final String API_KEY = "c1606aa4dc4af7ede864c01a80922f56";
+    private static final String API_KEY = "Paste YOUR-API here! Can be obtained for free in Open Weather";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q=";
 
     public static void main(String[] args) {
